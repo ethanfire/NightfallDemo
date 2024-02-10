@@ -1,6 +1,6 @@
-# Mobile Game Project - University of Florida
+# Game Development Project - University of Florida
 
-Welcome to the repository for the mobile game project developed for DIG 2632 - Creating Mobile Games at the University of Florida during Spring 2022.
+Welcome to the repository for the game project, _Nightfall_, developed by Ethan Fiore for DIG 2632 - Creating Mobile Games at the University of Florida during Spring 2022.
 
 ## About the Game
 This project is a 2D top-down action RPG where the player defends their village against waves of enemy skeletons. With the help of your fellow villagers, will you be able to vanquish the monsters and save your beloved home?
