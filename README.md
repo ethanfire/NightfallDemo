@@ -9,6 +9,8 @@ This project is a 2D top-down action RPG where the player defends their village 
 To play the game on Windows, simply download the repository and unzip the files. Then, run the executable file provided. No additional installations or configurations are required.
 Mac and Linux release coming soon!
 
+Note: Due to copyrighted assets in the game, the source files of the project cannot be uploaded.
+
 ## Features
 - **Engage** in strategic battles against waves of enemy skeletons to defend your village.
 - **Explore** a branching narrative with multiple endings influenced by your choices and ability.
