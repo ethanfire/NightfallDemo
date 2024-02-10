@@ -11,11 +11,11 @@ Mac and Linux release coming soon!
 
 ## Features
 - **Engage** in strategic battles against waves of enemy skeletons to defend your village.
+- **Explore** a branching narrative with multiple endings influenced by your choices and ability.
 - **Utilize** your sword and fireballs to overcome your foes and protect your home.
 - **Discover** coin collectibles scattered throughout the world to help a certain young villager.
-- **Explore** a branching narrative with multiple endings influenced by your choices and ability.
-- **Enjoy** a user-friendly main menu with level select functionality for easy navigation.
-- _Be careful_ about making a deal with a certain suspicious character, he might not have your best interests at heart.
+- **Jump** to your favorite level with the level select functionality.
+- **_Be careful_** about making a deal with a certain suspicious character, he might not have your best interests at heart.
 
 ## Development Details
 This game was a significant learning experience for me. I developed it completely independently, from coding to designing gameplay mechanics. The only aspect sourced externally were most audio and visual assets. Prior to this project, I had little to no experience with Unity or C#, but through perseverance and dedication, I overcame numerous challenges and gained valuable skills in game development and project management.
